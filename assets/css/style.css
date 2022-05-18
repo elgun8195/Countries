@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.dark-mode {
+  background-color: black;
+  color: black;
+}
+
+#darkmod {
+  color: red;
+  cursor: pointer;
+}
+
+#main .ee {
+  width: 30%;
+}
+
+#main .form-select {
+  width: 13%;
+}
+/*# sourceMappingURL=style.css.map */
